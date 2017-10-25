@@ -37,7 +37,4 @@ Diego Hermosilla Alfaro
 
 #### P.3 
 
-|---|---|
-|Codigo Uniprot|---|
-|---|---|
-|---|---|
+
