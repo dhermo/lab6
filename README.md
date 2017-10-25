@@ -36,7 +36,8 @@ Diego Hermosilla Alfaro
 #### P.2 Serine proteasas
 
 #### P.3 
+
 |---|---|
 |Codigo Uniprot|---|
-|Nombre|---|
-|Organismo|---|
+|---|---|
+|---|---|
