@@ -71,15 +71,24 @@ Se puede observar al alinear las distintas enzimas que la única que es mayorita
 
 #### P.5 Información Uniprot
 
-Codigo PDB: 4h4f
+1.Codigo PDB: 4h4f
+
 Codigo Uniprot: Q99895
+
 Nombre: Quimotripsina-C
+
 Organismo: Homo sapiens
-Funcion: Regula la activación y degradación de tripsinógenos y procarboxipeptidasas dirigiéndose a sitios de escisión específicos dentro de sus precursores de zimógeno. Tiene actividad proteasa tipo quimotripsina y actividad hipocalcémica.
+
+Función: Modula la activación y degradación de tripsinógenos y procarboxipeptidasas dirigiéndose a sitios de corte específicos dentro de sus precursores de zimógeno.
+
 Codigo Pfam: PF00089
+
 Código supfam: SSF50494
+
 EC number: EC 3.4.21.2
-Secuencia aminoacídica:
+
 Dominios: Peptidasa S1
+
 Residuos del sitio activo: Serina, aspartato e histidina
+
 >>sp|Q99895|CTRC_HUMAN Chymotrypsin-C OS=Homo sapiens GN=CTRC PE=1 SV=2 MLGITVLAALLACASSCGVPSFPPNLSARVVGGEDARPHSWPWQISLQYLKNDTWRHTCG GTLIASNFVLTAAHCISNTRTYRVAVGKNNLEVEDEEGSLFVGVDTIHVHKRWNALLLRN DIALIKLAEHVELSDTIQVACLPEKDSLLPKDYPCYVTGWGRLWTNGPIADKLQQGLQPV VDHATCSRIDWWGFRVKKTMVCAGGDGVISACNGDSGGPLNCQLENGSWEVFGIVSFGSR RGCNTRKKPVVYTRVSAYIDWINEKMQL
