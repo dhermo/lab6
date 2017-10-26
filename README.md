@@ -167,7 +167,35 @@ Estas presentan en su mayoria una evolución divergente.
 
 Verdadero, ya que la formación de familias ayuda a clasificar las secuencias conforme a su función.
 
-#### P.12
+#### P.12 Prosite
+
+Prosite nos entrega una colección de datos de proteínas, con sus dominios, familias y sitios activos de estas para poder determinar y encontrar por medio de patrones conocidos y estandarizados secuencias de interes.
+
+#### P.13 Glutathion S-transferase y G-Protein
+
+7.  Código PDB: 1AGS
+  - Código Uniprot: P09210
+  - Nombre: Glutathione S-transferase A2
+  - Organismo: Homo sapiens (Humano)
+  - Función: Conjugación de glutatión reducido a una gran cantidad de electrófilos hidrofóbicos exógenos y endógenos.
+  - Código pfam: PF14497/PF02798
+  - Código supfam: SSF47616/SSF52833
+  - EC number:
+  - Dominios: GST N-terminal/GST C-terminal
+  - >sp|P09210|GSTA2_HUMAN Glutathione S-transferase A2 OS=Homo sapiens GN=GSTA2 PE=1 SV=4 MAEKPKLHYSNIRGRMESIRWLLAAAGVEFEEKFIKSAEDLDKLRNDGYLMFQQVPMVEI DGMKLVQTRAILNYIASKYNLYGKDIKEKALIDMYIEGIADLGEMILLLPFSQPEEQDAK LALIQEKTKNRYFPAFEKVLKSHGQDYLVGNKLSRADIHLVELLYYVEELDSSLISSFPL LKALKTRISNLPTVKKFLQPGSPRKPPMDEKSLEESRKIFRF
+
+8.  Código PDB: 1AGP
+  - Código Uniprot: P01112
+  - Nombre: GTPasa HRas
+  - Organismo: Homo sapiens (Humano)
+  - Función: Involucrado en la activación de la transducción de señal de la proteína Ras. Las proteínas Ras se unen a GDP / GTP y poseen actividad de GTPasa intrínseca.
+  - Código pfam: PF00071
+  - Código supfam: SSF52540
+  - EC number:
+  - Dominios: 166 - 185	Región hipervariable/32 - 40	Región efector
+  - >sp|P01112|RASH_HUMAN GTPase HRas OS=Homo sapiens GN=HRAS PE=1 SV=1 MTEYKLVVVGAGGVGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGETCLLDILDTAG QEEYSAMRDQYMRTGEGFLCVFAINNTKSFEDIHQYREQIKRVKDSDDVPMVLVGNKCDL AARTVESRQAQDLARSYGIPYIETSAKTRQGVEDAFYTLVREIRQHKLRKLNPPDESGPG CMSCKCVLS
+
+
 
 
 
