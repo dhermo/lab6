@@ -47,8 +47,18 @@ La homología se dice que proviene de un ancestro en común, eliminando la posib
   
   6 Ligasas: clase 6 EC. Son enzimas que catalizan la unión de 2 moléculas con hidrólisis concomitante del enlace difosfato del ATP o algún trifosfato similar.
   
-#### P.2 Serine proteasas
+#### P.2 Serine proteasas EC
 
-#### P.3 
+Para las serine proteasas se utiliza un EC number de 3.4.21. Estos números quieren decir; 3 corresponde a la clase 3 de Hidrolasas, rompen enlaces liberando agua. 4 significa la subclase que rompen enlaces peptídicos. Y el 21 represeta la sub-subclase de las serine proteasas, es decir que utilizan el aminoacido Serina para generar el ataque nucleofílico que termina rompiendo el enlace. El cuarto número de cada enzima corresponde la preferencia de corte de cada enzima, que se puede encontrar en una lista con toda la familia de las serine proteasas.
 
+  - Trypsin-like: EC number 3.4.21.4
+  - Chymotrypsin-like: EC number 3.4.21.1/3.4.21.2
+  - Trombin-like: EC number 3.4.21.5
+  - Elastasa-like: EC number 3.4.21.36/3.4.21.37/3.4.21.71
+  - Subtilisin-like: EC number 3.4.21.62
+  
+#### P.3 Identificación y diferenciación de las reacciones
 
+  - Trypsin-like: Tripsina preferencia de corte Arg+ , Lys+
+  - Chymotrypsin-like: 3.4.21.1= Quimotripsina preferencia de corte Tyr+, Trp+, Phe+, Leu+. 3.4.21.2= Quimotripsina C preferencia de corte  Leu+, Tyr+, Phe+, Met+, Trp+, Gln+, Asn+.
+  - 
