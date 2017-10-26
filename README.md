@@ -64,3 +64,22 @@ Para las serine proteasas se utiliza un EC number de 3.4.21. Estos números quie
   - Trombin-like: Trombina, corte selectivo de Arg+Gly
   - Elastasa-like: 3.4.21.36= Elastasa pancreática, hidrólisis de elastina, preferencia de corte Ala+. 3.4.21.37= Elastasa leucocitica, hidrólisis elastina, preferencia de corte Val+ > Ala+. 3.4.21.71= Elastasa pancreática II, preferencia de corte  Leu+, Met+, Phe+
   - Subtilisin-like: Subtilisina, alta especificidad con enlaces peptídicos en especial los largos residuos no cargados.
+
+#### P.4 Evolución de las Serine Proteasas
+
+Se puede observar al alinear las distintas enzimas que la única que es mayoritariamente distinta es la Subtilisina, que al comparar con el organismo de origen (bacteria) que todas las demas provienen de un ancestro en común y que divergieron para formar las enzimas vistas, las cuales todas, excepto la subtilisina provenian de mamíferos. Mientras que la subtilisina convergío a la función que desempeña en la bacteria que es similar a las otras pero que no comparten secuencias.
+
+#### P.5 Información Uniprot
+
+Codigo PDB: 4h4f
+Codigo Uniprot: Q99895
+Nombre: Quimotripsina-C
+Organismo: Homo sapiens
+Funcion: Regula la activación y degradación de tripsinógenos y procarboxipeptidasas dirigiéndose a sitios de escisión específicos dentro de sus precursores de zimógeno. Tiene actividad proteasa tipo quimotripsina y actividad hipocalcémica.
+Codigo Pfam: PF00089
+Código supfam: SSF50494
+EC number: EC 3.4.21.2
+Secuencia aminoacídica:
+Dominios: Peptidasa S1
+Residuos del sitio activo: Serina, aspartato e histidina
+>>sp|Q99895|CTRC_HUMAN Chymotrypsin-C OS=Homo sapiens GN=CTRC PE=1 SV=2 MLGITVLAALLACASSCGVPSFPPNLSARVVGGEDARPHSWPWQISLQYLKNDTWRHTCG GTLIASNFVLTAAHCISNTRTYRVAVGKNNLEVEDEEGSLFVGVDTIHVHKRWNALLLRN DIALIKLAEHVELSDTIQVACLPEKDSLLPKDYPCYVTGWGRLWTNGPIADKLQQGLQPV VDHATCSRIDWWGFRVKKTMVCAGGDGVISACNGDSGGPLNCQLENGSWEVFGIVSFGSR RGCNTRKKPVVYTRVSAYIDWINEKMQL
