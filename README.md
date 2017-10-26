@@ -152,3 +152,24 @@ Uniprot nos entrega información de alta calidad, revisada y curada o no revisad
 La tabla tiene datos extras como el largo de las enzimas o el peso molecular, pero carece de otros como el EC number o la secuencia aminoacídica, pero por lo demás estan iguales los datos.
 
 #### P.8 Similitud
+
+Al alinear las 6 proteasas se obtiene una identidad muy baja de 1.183%,con 16 aminoácidos similares y 6 idénticos.
+
+#### P.9 Alinear con distintas mezclas
+
+A medida que se van sacando secuencias los porcentajes van aumentando. Independientemente de cuales se alinien, entre menos secuencias se alinien mayor sera el porcentaje, mas, la secuencia que menos identidad tiene con respecto a las otras es la subtilicina. Luego si sacamos las secuencias del Streptomyces, la identidad vuelve a crecer a casi un 21%. Y finalmente si sacamos la secuencia humana, la identidad entre las dos secuencias de bovino es de 38%. 
+
+#### P.10 Evolución de las Serine proteasas
+
+Estas presentan en su mayoria una evolución divergente.
+
+#### P.11 "Identificar la familia a la cual pertenece una secuencia a menudo permite inferir su funcionalidad"
+
+Verdadero, ya que la formación de familias ayuda a clasificar las secuencias conforme a su función.
+
+#### P.12
+
+
+
+
+
