@@ -177,10 +177,10 @@ Prosite nos entrega una colección de datos de proteínas, con sus dominios, fam
   - Código Uniprot: P09210
   - Nombre: Glutathione S-transferase A2
   - Organismo: Homo sapiens (Humano)
-  - Función: Conjugación de glutatión reducido a una gran cantidad de electrófilos hidrofóbicos exógenos y endógenos.
+  - Función: Conjugación de glutatión reducido a cantidad de electrófilos hidrofóbicos exógenos y endógenos.
   - Código pfam: PF14497/PF02798
   - Código supfam: SSF47616/SSF52833
-  - EC number:
+  - EC number: 2.5.1.18
   - Dominios: GST N-terminal/GST C-terminal
   - >sp|P09210|GSTA2_HUMAN Glutathione S-transferase A2 OS=Homo sapiens GN=GSTA2 PE=1 SV=4 MAEKPKLHYSNIRGRMESIRWLLAAAGVEFEEKFIKSAEDLDKLRNDGYLMFQQVPMVEI DGMKLVQTRAILNYIASKYNLYGKDIKEKALIDMYIEGIADLGEMILLLPFSQPEEQDAK LALIQEKTKNRYFPAFEKVLKSHGQDYLVGNKLSRADIHLVELLYYVEELDSSLISSFPL LKALKTRISNLPTVKKFLQPGSPRKPPMDEKSLEESRKIFRF
 
@@ -188,7 +188,7 @@ Prosite nos entrega una colección de datos de proteínas, con sus dominios, fam
   - Código Uniprot: P01112
   - Nombre: GTPasa HRas
   - Organismo: Homo sapiens (Humano)
-  - Función: Involucrado en la activación de la transducción de señal de la proteína Ras. Las proteínas Ras se unen a GDP / GTP y poseen actividad de GTPasa intrínseca.
+  - Función: Presente en la activación de la transducción de señal de las proteínas Ras. Las proteínas Ras se unen a GDP / GTP y poseen actividad de GTPasa intrínseca.
   - Código pfam: PF00071
   - Código supfam: SSF52540
   - EC number:
@@ -196,7 +196,23 @@ Prosite nos entrega una colección de datos de proteínas, con sus dominios, fam
   - >sp|P01112|RASH_HUMAN GTPase HRas OS=Homo sapiens GN=HRAS PE=1 SV=1 MTEYKLVVVGAGGVGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGETCLLDILDTAG QEEYSAMRDQYMRTGEGFLCVFAINNTKSFEDIHQYREQIKRVKDSDDVPMVLVGNKCDL AARTVESRQAQDLARSYGIPYIETSAKTRQGVEDAFYTLVREIRQHKLRKLNPPDESGPG CMSCKCVLS
 
 
+#### P.16 Pfam
 
+Es una base de datos que contiene familias de dominios de proteínas, y se utiliza para reconocer secuencias utilizando predicciones de los datos en esta base.
+
+#### P.17 Clasificación de proteínas
+
+Se clasifican en: Familia, Dominio, Repetido, Motivo, Coiled-coil y Desordenada
+
+#### P.18 A que familia pertenece cada proteína
+
+
+  - Chymotrypsin-C = Peptidase S1 family, Elastase subfamily Trypsin
+  - Cationic trypsin = Peptidase S1 family Trypsin
+  - Chymotrypsinogen A = Peptidase S1 family Trypsin
+  - Trypsin = Peptidase S1  family Trypsin
+  - Streptogrisin-A = Peptidase S1 family 
+  - Subtilisin = Peptidase S8 family 
 
 
 
