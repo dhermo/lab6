@@ -59,6 +59,8 @@ Para las serine proteasas se utiliza un EC number de 3.4.21. Estos números quie
   
 #### P.3 Identificación y diferenciación de las reacciones
 
-  - Trypsin-like: Tripsina preferencia de corte Arg+ , Lys+
-  - Chymotrypsin-like: 3.4.21.1= Quimotripsina preferencia de corte Tyr+, Trp+, Phe+, Leu+. 3.4.21.2= Quimotripsina C preferencia de corte  Leu+, Tyr+, Phe+, Met+, Trp+, Gln+, Asn+.
-  - 
+  - Trypsin-like: Tripsina, preferencia de corte Arg+ , Lys+
+  - Chymotrypsin-like: 3.4.21.1= Quimotripsina, preferencia de corte Tyr+, Trp+, Phe+, Leu+. 3.4.21.2= Quimotripsina C, preferencia de corte  Leu+, Tyr+, Phe+, Met+, Trp+, Gln+, Asn+.
+  - Trombin-like: Trombina, corte selectivo de Arg+Gly
+  - Elastasa-like: 3.4.21.36= Elastasa pancreática, hidrólisis de elastina, preferencia de corte Ala+. 3.4.21.37= Elastasa leucocitica, hidrólisis elastina, preferencia de corte Val+ > Ala+. 3.4.21.71= Elastasa pancreática II, preferencia de corte  Leu+, Met+, Phe+
+  - Subtilisin-like: Subtilisina, alta especificidad con enlaces peptídicos en especial los largos residuos no cargados.
