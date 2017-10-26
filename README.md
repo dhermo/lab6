@@ -35,7 +35,18 @@ La homología se dice que proviene de un ancestro en común, eliminando la posib
 
 #### P.1 Enzyme comission, clases y reacciones
 
-  1 Oxidoreductasas: son las enzimas que catalizan reacciones de óxido-reducción, utilizando como sustratos donadores de electrones como el hidrogeno
+  1 Oxidoreductasas: son las enzimas que catalizan reacciones de óxido-reducción, utilizando como sustratos donadores de electrones como el hidrogeno. Estas correponden a la clase 1 dentro de la Enzime Comission (EC).
+  
+  2 Transferasas: corresponden a la segunda clase de EC. y son aquellas enzimas que transfieren un grupo desde un donador a un aceptor.
+  
+  3 Hidrolasas: esta es la clase 3 de EC. Y estas enzimas catalizan la hidrólisis de varios enlaces.
+  
+  4 Liasas: clase 4 EC. Son enzimas que cortan enlaces C-C, C-O, C-N, entre otros por métodos diferentes a la hidrólisis o la oxidación, y se necesitan siempre dos sustratos para llevar a cabo una reacción.
+  
+  5 Isomerasas: clase 5 EC. Enzimas que catalizan cambios en una molécula.
+  
+  6 Ligasas: clase 6 EC. Son enzimas que catalizan la unión de 2 moléculas con hidrólisis concomitante del enlace difosfato del ATP o algún trifosfato similar.
+  
 #### P.2 Serine proteasas
 
 #### P.3 
